@@ -13,7 +13,6 @@ rv-brand = "inotia00 ReVanced"
 arch = "both"
 build-mode = "both"
 version = "latest"
-included-patches = "'MaterialYou'"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 
 [Music]
