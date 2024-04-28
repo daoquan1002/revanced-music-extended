@@ -2,11 +2,7 @@ enable-magisk-update = true
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-rv-brand = "inotia00 ReVanced"
 arch = "both"
 build-mode = "both"
 version = "latest"
-excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
-
+included-patches = "'Permanent repeat' 'Permanent shuffle'"
