@@ -3,7 +3,7 @@ enable-magisk-update = true
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/revanced-integrations"
+integrations-source = "YT-Advanced/ReX-integrations"
 rv-brand = "YT-Advanced ReVanced"
 arch = "both"
 build-mode = "both"
