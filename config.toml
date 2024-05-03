@@ -8,4 +8,5 @@ rv-brand = "YT-Advanced ReVanced"
 arch = "both"
 build-mode = "both"
 version = "6.48.51"
-excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
+excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Enable landscape mode' 'Return YouTube Dislike' 'SponsorBlock'"
+
